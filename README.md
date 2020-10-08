@@ -45,3 +45,6 @@ https://wws.averbeporto.com.br/websys/?comp=5
 
 Documentação Horrível com chamadas do webservices da Averba Porto com os exemplos do POSTMAN: https://documenter.getpostman.com/view/207913/RWgozeRg#25d229c1-bb82-41d7-aa7d-3f33139838e7
 
+Manual Oficial:
+https://docs.google.com/document/d/1da005UzBF1Wzm8LmiB4JJnaXaLXtFKgl6S_rErMlXF8/edit
+
